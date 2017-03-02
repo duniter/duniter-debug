@@ -1,6 +1,6 @@
 {
   "name": "duniter-debug",
-  "version": "0.2.7",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "mocha --growl --timeout 10000 test/"
