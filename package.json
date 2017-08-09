@@ -24,13 +24,18 @@
   },
   "dependencies": {
     "cli-table": "^0.3.1",
-    "co": "4.6.0",
+    "co": "^4.6.0",
+    "colors": "1.0.3",
+    "duniter-bma": "^1.1.2",
+    "duniter-keypair": "^1.1.4",
+    "duniter-prover": "^1.1.2",
+    "node-pre-gyp": "^0.6.34",
     "q": "1.4.1",
     "querablep": "0.1.0",
     "underscore": "1.8.3"
   },
   "devDependencies": {
-    "duniter": "^0.90.9",
+    "duniter": "^1.2.3",
     "mocha": "3.2.0",
     "should": "11.1.2"
   }

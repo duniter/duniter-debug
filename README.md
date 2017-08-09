@@ -11,7 +11,7 @@ node run.js --mdb dbA reset data
 node run.js --mdb dbA sync gtest.duniter.org 10900
 node run.js --mdb dbB reset data
 node run.js --mdb dbB sync some.other.node 10900
-bash compare dbA dbB m_index meld
+node run.js --mdb dbA dbg-compare dbB m_index meld
 ```
 
 Explanations:
